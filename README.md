@@ -3,6 +3,7 @@ The implementation of the paper “A Progressive Registration-Fusion Co-Optimiza
 
 ## Cite 
 If you find this code helpful, please consider citing our paper:
+
 '''
 @ARTICLE{11006139,
   author={Li, Zan and Wen, Yue and Xiao, Song and Qu, Jiahui and Li, Nan and Dong, Wenqian},
